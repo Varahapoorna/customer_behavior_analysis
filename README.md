@@ -1,9 +1,9 @@
 📊 Customer Behavior Data Analytics Project
 🔍 Overview
 
-This project analyzes customer shopping behavior using an end-to-end data analytics workflow. The objective is to transform raw customer data into meaningful business insights through data cleaning, exploratory data analysis (EDA), SQL querying, and interactive dashboard visualization.
+This project analyzes customer shopping behavior using a complete end-to-end data analytics workflow. The goal is to convert raw customer data into meaningful business insights through data cleaning, exploratory data analysis (EDA), SQL querying, and interactive dashboard visualization.
 
-The project demonstrates practical experience in Python, SQL databases, Power BI dashboard development, and professional reporting.
+This project demonstrates hands-on experience in Python, SQL databases, Power BI dashboard development, and professional reporting.
 
 📁 Dataset
 
@@ -35,10 +35,10 @@ Discount Applied
 
 Season
 
-This dataset helps analyze customer purchasing patterns and business performance.
+This dataset helps analyze customer purchasing patterns and overall business performance.
 
 🛠️ Tools & Technologies
-Programming & Data Analysis
+📌 Programming & Data Analysis
 
 Python
 
@@ -46,9 +46,11 @@ Pandas
 
 NumPy
 
-Matplotlib / Seaborn
+Matplotlib
 
-Database Management
+Seaborn
+
+📌 Database Management
 
 PostgreSQL
 
@@ -58,18 +60,18 @@ SQL Server
 
 SQL (Joins, Aggregations, Filtering, Grouping)
 
-Data Visualization & Reporting
+📌 Data Visualization & Reporting
 
 Power BI
 
 Gamma (Presentation Creation)
 
-⚙️ Project Steps
+⚙️ Project Workflow
 1️⃣ Data Loading
 
-Imported dataset using Python (Pandas).
+Imported dataset using Pandas.
 
-Checked dataset structure and data types.
+Verified data structure and data types.
 
 2️⃣ Exploratory Data Analysis (EDA)
 
@@ -79,7 +81,7 @@ Studied purchasing patterns and spending behavior.
 
 Visualized category-wise and age-wise trends.
 
-Identified important customer segments.
+Identified key customer segments.
 
 3️⃣ Data Cleaning
 
@@ -111,7 +113,7 @@ Generate business insights
 
 Developed an interactive Customer Behavior Dashboard featuring:
 
-KPI Cards
+📊 KPI Cards
 
 Total Customers
 
@@ -119,7 +121,7 @@ Average Purchase Amount
 
 Average Review Rating
 
-Customer Insights
+📊 Customer Insights
 
 Subscription Status Distribution
 
@@ -129,7 +131,7 @@ Age Group Revenue Analysis
 
 Age Group Sales Trends
 
-Interactive Filters
+🎛 Interactive Filters
 
 Subscription Status
 
@@ -139,35 +141,27 @@ Product Category
 
 Shipping Type
 
-6️⃣ Reporting & Presentation
-
-Created detailed analytics report.
-
-Built professional project presentation using Gamma.
-
-Highlighted business insights and recommendations.
-
 📊 Dashboard Highlights
 
-User-friendly and interactive design.
+User-friendly and interactive design
 
-Visual comparison of customer segments.
+Visual comparison of customer segments
 
-Real-time filtering for better analysis.
+Real-time filtering capabilities
 
-Clear KPI tracking for business decision-making.
+Clear KPI tracking for business decision-making
 
 📈 Results & Insights
 
-Clothing category generated highest revenue and sales.
+Clothing category generated the highest revenue and sales.
 
 Young adult customers contributed the highest sales volume.
 
 Subscription customers showed different purchasing behavior patterns.
 
-Shipping method and discounts influenced customer purchasing decisions.
+Shipping methods and discount offers influenced purchasing decisions.
 
-Provided actionable insights for improving customer engagement and sales strategies.
+Generated actionable insights for improving customer engagement and sales strategies.
 
 ▶️ How To Run This Project
 Step 1: Clone Repository
@@ -186,9 +180,9 @@ Export processed data
 
 Step 4: Setup Database
 
-Import cleaned dataset into PostgreSQL/MySQL/SQL Server
+Import cleaned dataset into PostgreSQL / MySQL / SQL Server
 
-Run SQL queries for analysis
+Execute SQL queries for analysis
 
 Step 5: Open Power BI Dashboard
 
@@ -214,4 +208,4 @@ SQL Database Querying
 
 Business Intelligence Dashboard Development
 
-Insight Generation & Data Storytelling
+Data Storytelling & Insight Generation
